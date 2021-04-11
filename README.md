@@ -5,7 +5,7 @@
 
 ## **Project Setup**
 
-- Just click on the repo names and click the fork button, come on!
+- Just click on the repo names and click the fork button and clone it!
 
 ### Nginx Setup
 
