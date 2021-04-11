@@ -1,5 +1,5 @@
 
-# **Learners Academy**
+# **Steep Learning**
 
 ## **Getting Started**
 
