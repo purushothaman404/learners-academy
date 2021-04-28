@@ -15,11 +15,11 @@
 
 - Dev Mode
 
-  1. yarn install
+  1. npm install
   2. npm run dev
 
 - Production Mode
-  1. yarn install
+  1. npm install
   2. npm run build
   3. npm start
 
