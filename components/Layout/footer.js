@@ -107,7 +107,7 @@ function Footer() {
                 <MuiList title={"Contact Us"} txtColor={"white"}>
                   {[
                     <a
-                      href="tel: +917904530778"
+                      href="tel: +910000000000"
                       style={{
                         cursor: "pointer",
                         color: "white",
@@ -115,10 +115,10 @@ function Footer() {
                       }}
                       key="mobile"
                     >
-                      +917904530778
+                      +91 00000 00000
                     </a>,
                     <a
-                      href="mailto:steeplearningoff@gmail.com"
+                      href="mailto:steeplearning@gmail.com"
                       style={{
                         cursor: "pointer",
                         color: "white",
@@ -126,7 +126,7 @@ function Footer() {
                       }}
                       key="mail"
                     >
-                      steeplearningoff@gmail.com
+                      steeplearning@gmail.com
                     </a>,
                   ]}
                 </MuiList>
@@ -148,7 +148,7 @@ function Footer() {
                 <MuiList title={"Visit Us"} txtColor={"white"}>
                   {[
                     <a style={{ color: "white" }} key="address">
-                      No:3/6,zion street,Chennai - 600037
+                      No:36, LK Street, Chennai - 600037
                     </a>,
                   ]}
                 </MuiList>
