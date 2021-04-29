@@ -76,17 +76,14 @@ function Footer() {
                     >
                       Teacher Register
                     </a>,
-               <a style=
-               {{ cursor: "pointer", color: "white"}}
-                target="_blank"
-                onClick={() =>
-                        Router.push(
-                          "/terms-and-conditions"
-                          )}
-                 key="Terms"
-                 >Terms and Conditions</a>
-                      ,
-                    
+                    <a
+                      style={{ cursor: "pointer", color: "white" }}
+                      target="_blank"
+                      onClick={() => Router.push("/terms-and-conditions")}
+                      key="Terms"
+                    >
+                      Terms and Conditions
+                    </a>,
                   ]}
                 </MuiList>
               </MuiGrid>
@@ -107,7 +104,7 @@ function Footer() {
                 <MuiList title={"Contact Us"} txtColor={"white"}>
                   {[
                     <a
-                      href="tel: +910000000000"
+                      href="tel: +91 0000000000"
                       style={{
                         cursor: "pointer",
                         color: "white",
@@ -156,7 +153,7 @@ function Footer() {
             </MuiGrid>
           </BsRow>
           <BsRow jc="center">
-            <div style={{ color: "white",textAlign : "center" }}>
+            <div style={{ color: "white", textAlign: "center" }}>
               © 2020 Copyright: steeplearning.com
             </div>
           </BsRow>
