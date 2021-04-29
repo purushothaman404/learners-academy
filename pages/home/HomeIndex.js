@@ -58,6 +58,16 @@ function HomeIndex() {
                 {`Are you a `}
                 <p style={{ color: "#4B7FCF" }}> &nbsp; student?</p>
               </BsRow>
+               <BsRow>
+                <p
+                  style={{
+                    fontSize: "1.5rem",
+                    marginBottom: "2rem",
+                  }}
+                >
+                  Register Now!
+                </p>
+              </BsRow>
             </MuiBox>
             <MuiButton
               className="reg"
