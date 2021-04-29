@@ -13,6 +13,12 @@
 
 ### Start steep learning web
 
+- Clone the application
+
+  ```sh
+  $ git clone https://github.com/purushothaman404/learners-academy.git
+  ```
+
 - Dev Mode
 
   ```sh
